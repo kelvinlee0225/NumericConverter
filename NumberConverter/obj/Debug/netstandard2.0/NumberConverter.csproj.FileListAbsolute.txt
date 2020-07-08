@@ -1,0 +1,9 @@
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\bin\Debug\netstandard2.0\NumberConverter.deps.json
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\bin\Debug\netstandard2.0\NumberConverter.dll
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\bin\Debug\netstandard2.0\NumberConverter.pdb
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.csprojAssemblyReference.cache
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.AssemblyInfoInputs.cache
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.AssemblyInfo.cs
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.csproj.CoreCompileInputs.cache
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.dll
+D:\Visual_Code_Projects\NumericConverter\NumberConverter\obj\Debug\netstandard2.0\NumberConverter.pdb
