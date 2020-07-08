@@ -192,3 +192,5 @@ C:\Users\vamj809\source\repos\NumericConverter\NumberConverter.Test\obj\Debug\ne
 C:\Users\vamj809\source\repos\NumericConverter\NumberConverter.Test\obj\Debug\netcoreapp3.1\NumberConverter.Test.genruntimeconfig.cache
 C:\Users\vamj809\source\repos\NumericConverter\NumberConverter.Test\bin\Debug\netcoreapp3.1\NumberConverter.dll
 C:\Users\vamj809\source\repos\NumericConverter\NumberConverter.Test\bin\Debug\netcoreapp3.1\NumberConverter.pdb
+D:\Visual_Code_Projects\NumericConverter\NumberConverter.Test\bin\Debug\netcoreapp3.1\NumberConverter.dll
+D:\Visual_Code_Projects\NumericConverter\NumberConverter.Test\bin\Debug\netcoreapp3.1\NumberConverter.pdb

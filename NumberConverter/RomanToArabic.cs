@@ -24,7 +24,7 @@ namespace NumberConverter
         ///         - If valid numbers are consecutive three times max.
         ///         - If invalid numbers are NOT consecutive.
         /// </summary>
-        public static int Convert(string romanNumber)
+        public static int ConvertToArabic(string romanNumber)
         {
             romanNumber = romanNumber.ToUpper();
             int result = 0, consecutives = 1;
