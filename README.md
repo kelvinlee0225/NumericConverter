@@ -1,2 +1,2 @@
 # NumericConverter
-This is a program that changes Roman numbers into arabic's and vice versa. 
+This library converts Arabic numbers into Roman characters and vice versa. 
