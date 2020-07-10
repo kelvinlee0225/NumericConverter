@@ -2,6 +2,9 @@
 
 namespace NumberConverter
 {
+    /// <summary>
+    ///  This class converts numbers from arabic to roman.
+    /// </summary>
     public class ArabicToRoman
     {
         private static string[] Thousands = {"", "M", "MM", "MMM"};

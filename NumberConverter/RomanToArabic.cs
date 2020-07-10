@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace NumberConverter
 {
+    /// <summary>
+    ///  This class converts numbers from roman to arabic.
+    /// </summary>
     public class RomanToArabic
     {
 
