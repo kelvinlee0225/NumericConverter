@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj": {}
+    "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj": {
+    "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj",
+        "projectUniqueName": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj",
         "projectName": "NumberConverter.Test",
-        "projectPath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj",
+        "projectPath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter.Test\\NumberConverter.Test.csproj",
         "packagesPath": "C:\\Users\\vamj809\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter.Test\\obj\\",
+        "outputPath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj": {
-                "projectPath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj"
+              "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj": {
+                "projectPath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj": {
+    "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
+        "projectUniqueName": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
         "projectName": "NumberConverter",
-        "projectPath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
+        "projectPath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
         "packagesPath": "C:\\Users\\vamj809\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\obj\\",
+        "outputPath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nsVUjuyb5cTKqqvHBFeiskXqMR7KUpiiTe/CiQubVOoEWzmRjfhdKGFTCajF2UthmP2ogIInczbSyEwbchDxJw==",
+  "dgSpecHash": "f/s7HHrLdJ149bu5vneWfiXu8UIgtesfxeN3V7nky/5tNmDnDRW9NzDUDKR8veduCH4IAPKfrdoIvVtFIJeFxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vamj809\\Source\\Repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
+  "projectFilePath": "C:\\Users\\vamj809\\source\\repos\\asdfKLK\\NumberConverter\\NumberConverter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vamj809\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vamj809\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

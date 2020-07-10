@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace NumberConverter
 {
     /// <summary>
-    ///  This class converts numbers from roman to arabic.
+    ///  This class converts roman characters to arabic numbers
     /// </summary>
     public class RomanToArabic
     {
