@@ -4,11 +4,10 @@ using System.Collections.Generic;
 namespace NumberConverter
 {
     /// <summary>
-    ///  This class converts roman characters to arabic numbers
+    ///  This class converts roman characters to arabic numbers.
     /// </summary>
     public class RomanToArabic
     {
-
         private static Dictionary<char,int> romanChars = new Dictionary<char, int> {
             {'M', 1000},
             {'D', 500},
