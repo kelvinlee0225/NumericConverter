@@ -19,8 +19,6 @@ jobs:
       run: dotnet build ./NumericConverter.sln --configuration Release --no-restore /property:Version${{github.event.release.tag_name}}
     - name: Test with dotnet
       run: dotnet test ./NumericConverter.sln --configuration Release
-    - name: Publish Nuget
-      run: dotnet nuget push /home/runner?
     - name: Publish NumberConverter
       uses: brandedoutcast/publish-nuget@v2.5.4
       with:
