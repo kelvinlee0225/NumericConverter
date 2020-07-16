@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Build with dotnet
-      run: dotnet build ./NumericConverter.sln --configuration Release --no-restore /property:Version${{github.event.release.tag_name}}
+      run: dotnet build ./NumericConverter.sln --configuration Release
     - name: Test with dotnet
       run: dotnet test ./NumericConverter.sln --configuration Release
     - name: Publish NumberConverter
